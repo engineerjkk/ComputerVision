@@ -7,9 +7,9 @@ OpenCV를 활용한 컴퓨터비전과 머신러닝-황선규 저 교재의 도�
 추가적으로 교내 컴퓨터 비전 수업시간에 배운 내용들 또한 코드와 이론을 함께 업로드합니다.  
 전통적인 영상처리부터 AI를 활용한 컴퓨터비전까지 넓은 내용을 다루게 됩니다.
 
-#디렉터리 설명  
+# 디렉터리 설명  
 ___
-![image](https://user-images.githubusercontent.com/76835313/111906378-9e901380-8a93-11eb-8dba-efd40fd9dc6b.png)  
+![image](https://user-images.githubusercontent.com/76835313/111906378-9e901380-8a93-11eb-8dba-efd40fd9dc6b.png)width="400"  
 
 1. 영상의 픽셀 수, 크기 데이터 타입 알기  
 3. 이미지 복사 (Image Copy)  
